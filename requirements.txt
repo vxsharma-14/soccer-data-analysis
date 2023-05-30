@@ -1,0 +1,6 @@
+voila
+ipywidgets
+pandas
+seaborn
+numpy
+ipython
